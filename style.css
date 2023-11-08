@@ -19,3 +19,13 @@
     --bs-btn-disabled-bg: #fd0d0d;
     --bs-btn-disabled-border-color: #fd0d0d;
 }
+
+.card-footer {
+    background: transparent;    
+    border-top: 0px;
+  }
+
+img#image {
+    height: 50px;
+    width: 50px;
+}
