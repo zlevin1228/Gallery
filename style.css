@@ -29,3 +29,7 @@ img#image {
     height: 50px;
     width: 50px;
 }
+
+nav {
+    font-family: 'Bebas Neue', sans-serif;
+}
