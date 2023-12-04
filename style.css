@@ -30,6 +30,6 @@ img#image {
     width: 50px;
 }
 
-nav {
+nav, .card-title, .hero {
     font-family: 'Bebas Neue', sans-serif;
 }
